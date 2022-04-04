@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SimpleBackgroundTask</string>
+    <string name="start_task">starttask</string>
+    <string name="ready_to_start">readytostart</string>
+    <string name="id">ID:</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="other">Other</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="save">SAVE</string>
+    <string name="delete">DELETE</string>
+    <string name="get_add">GET/ADD</string>
+</resources>
